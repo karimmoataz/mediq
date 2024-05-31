@@ -1,0 +1,2 @@
+-you must connect to the internet for the CDN to load
+-the images are not ready for online launching it's still on the original resolution
